@@ -18,6 +18,8 @@ https://github.com/EthanRosenthal/discovered-weekly
 **v 27.11.2022 19:07 **
 
 Zaznamy o mereni:
+
 2022/11/27 18:08:40 Weather in Brno: 3.11
 
 2022/11/27 18:32:10 Weather in Brno: 3.11
+zzz
