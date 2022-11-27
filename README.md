@@ -1,6 +1,8 @@
 # ActionTest
+
 test action
 based on
+
 # Schedule a Python script with GitHub Actions
 
 Schedule Python Scripts with GitHub - https://youtu.be/PaGp7Vi5gfM
@@ -13,6 +15,6 @@ https://crontab.guru
 
 https://github.com/EthanRosenthal/discovered-weekly
 
+**v 27.11.2022 19:07 **
 
 Zaznamy o mereni:
-
