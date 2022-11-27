@@ -25,3 +25,5 @@ Zaznamy o mereni:
 zzz
 2022/11/27 18:46:14 Weather in Brno: 3.11
 
+2022/11/27 18:59:09 Weather in Brno: 2.7
+
