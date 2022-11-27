@@ -38,4 +38,4 @@ if __name__ == "__main__":
     logger.info(s2)
     # pridani do README.md
     with open('README.md', "a+") as f:
-      f.write(s1 + ' '+s2+'\n')
+      f.write(s1 + ' '+s2+'\n\n')
