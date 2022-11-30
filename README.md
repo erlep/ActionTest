@@ -347,3 +347,5 @@ zzz
 
 2022/11/30 03:39:12 Weather in Brno: 0.11
 
+2022/11/30 03:52:13 Weather in Brno: -0.42
+
