@@ -4552,3 +4552,5 @@
 2022-12-27 16:59:28,378 - __main__ - INFO - Weather in Brno: 3.71
 2022-12-27 17:19:52,043 - __main__ - INFO - Token value: "toto je SOME_SECRET"
 2022-12-27 17:19:52,328 - __main__ - INFO - Weather in Brno: 3.81
+2022-12-27 17:33:34,473 - __main__ - INFO - Token value: "toto je SOME_SECRET"
+2022-12-27 17:33:34,778 - __main__ - INFO - Weather in Brno: 3.44
