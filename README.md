@@ -5781,3 +5781,5 @@ zzz
 
 2023/01/04 09:58:10 Weather in Brno: 3.68
 
+2023/01/04 10:24:53 Weather in Brno: 3.56
+
