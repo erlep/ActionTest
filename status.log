@@ -6608,3 +6608,5 @@
 2023-10-05 01:37:59,066 - __main__ - INFO - Weather in Brno: 8.34
 2023-10-05 02:14:43,434 - __main__ - INFO - Token value: "toto je SOME_SECRET"
 2023-10-05 02:14:44,006 - __main__ - INFO - Weather in Brno: 8.26
+2023-10-05 02:34:06,293 - __main__ - INFO - Token value: "toto je SOME_SECRET"
+2023-10-05 02:34:06,644 - __main__ - INFO - Weather in Brno: 8.26
